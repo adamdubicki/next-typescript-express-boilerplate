@@ -19,3 +19,10 @@ npm install
 npm run build
 npm run start
 ```
+
+Docker for local development:
+
+```bash
+make build-dev
+make run-dev
+```
